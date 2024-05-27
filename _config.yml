@@ -2,7 +2,7 @@
 title: 블로그 이름
 description: 블로그 설명
 url: https://ippo252525.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bgg.jpg
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: ippo252525
+  url: https://github.com/ippo252525/
+  email: ippo252525@gmail.com
