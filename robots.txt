@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ippo252525.github.io/sitemap.xml
